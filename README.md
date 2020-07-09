@@ -1,0 +1,2 @@
+# QlikRU
+Всё, о Qlik
